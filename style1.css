@@ -1,0 +1,123 @@
+#logo{
+    position: fixed;
+    top: 250px;
+    right: 500px;
+}
+
+form {
+  position: fixed;
+  top: 330px;
+  right: 150px;
+  width:765px;
+  margin:50px auto;
+}
+
+.search{
+    padding: 4px 22px;
+    border:1px solid #126EF6;
+    width: 500px;
+}
+.button{
+  position:fixed;
+  top:417px;
+  left:718px;
+}
+.lucky{
+  position:fixed;
+  top: 417px;
+  right:542px;
+}
+button{
+  background: #F4F4F4;
+}
+li{
+  display:inline;
+  margin:10px;
+}
+
+ul{
+   position:fixed;
+  right: 150px;
+  font-size: 11px;
+  font-family: 'Abel', sans-serif;
+}
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+footer{
+  display:block;
+}
+
+body{
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+#wrapper{
+  min-height:100%;
+  margin-bottom: -330px;
+  position:relative;
+}
+
+#navigation_header{
+  padding:10px;
+}
+
+#content{
+  padding:10px;
+  padding-bottom:80px;
+}
+
+#footer{
+  width:100%;
+  height:42px;
+  position:absolute;
+  left:0;
+  bottom:0;
+  background:#F2F2F2;
+  box-shadow:inset 5px 5px 34px -1px #999;
+}
+
+html{
+  position:relative;
+  min-height: 100%;
+}
+
+body{
+  margin: 0 0 100px;
+}
+
+.clearfooter{
+  height: 42px;
+  clear: both;
+}
+
+#fbarright{
+  font-family: 'Abel', sans-serif;
+  position: absolute;
+  right: 0px;
+  width: 300px;
+
+}
+
+footer span a{
+  padding:5px;
+}
+
+#fbarleft{
+  float: left;
+  width: 300px;
+
+  font-family: 'Abel', sans-serif;
+}
